@@ -20,8 +20,12 @@ button {
   margin: .2em;
   font-family: 'Josefin Sans', sans-serif;
   font-size: 1.5em;
+  border: none;
+  transition-duration: 2s;
 }
 
 button:hover {
   background-color: cornflowerblue;
+  color: ghostwhite;
+  transition-duration: 2s;
 }
